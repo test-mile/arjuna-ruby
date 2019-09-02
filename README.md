@@ -1,4 +1,4 @@
-# arjuna-ruby
+# Arjuna-Ruby Bindings
 Ruby Requester/Client library for Arjuna based test automation.
 
 # Project Architect(s)
